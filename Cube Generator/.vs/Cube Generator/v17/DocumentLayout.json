@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\CubeGenerator\\Cube Generator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC509C6D-8F77-92F1-742B-7F2665714FE3}|Assembly-CSharp.csproj|e:\\workprogramm\\unity\\unityproject\\ijun\\cubegenerator\\cube generator\\assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC509C6D-8F77-92F1-742B-7F2665714FE3}|Assembly-CSharp.csproj|E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\CubeGenerator\\Cube Generator\\assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC509C6D-8F77-92F1-742B-7F2665714FE3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC509C6D-8F77-92F1-742B-7F2665714FE3}|Assembly-CSharp.csproj|E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\CubeGenerator\\Cube Generator\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC509C6D-8F77-92F1-742B-7F2665714FE3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC509C6D-8F77-92F1-742B-7F2665714FE3}|Assembly-CSharp.csproj|E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\CubeGenerator\\Cube Generator\\assets\\scripts\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC509C6D-8F77-92F1-742B-7F2665714FE3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC509C6D-8F77-92F1-742B-7F2665714FE3}|Assembly-CSharp.csproj|E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\CubeGenerator\\Cube Generator\\assets\\scripts\\melee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC509C6D-8F77-92F1-742B-7F2665714FE3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\melee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Melee.cs",
+              "DocumentMoniker": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\CubeGenerator\\Cube Generator\\Assets\\Scripts\\Melee.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Melee.cs",
+              "ToolTip": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\CubeGenerator\\Cube Generator\\Assets\\Scripts\\Melee.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Melee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:07:45.518Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Target.cs",
+              "DocumentMoniker": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\CubeGenerator\\Cube Generator\\Assets\\Scripts\\Target.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Target.cs",
+              "ToolTip": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\CubeGenerator\\Cube Generator\\Assets\\Scripts\\Target.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Target.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:23:33.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\CubeGenerator\\Cube Generator\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\CubeGenerator\\Cube Generator\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:39:04.149Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +76,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Spawner.cs",
               "ToolTip": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\CubeGenerator\\Cube Generator\\Assets\\Scripts\\Spawner.cs",
               "RelativeToolTip": "Assets\\Scripts\\Spawner.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowCUAAAAWAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-02T18:49:56.871Z",
               "EditorCaption": ""

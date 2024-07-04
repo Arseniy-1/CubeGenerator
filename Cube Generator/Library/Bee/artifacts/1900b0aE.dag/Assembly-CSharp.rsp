@@ -356,7 +356,10 @@
 -analyzer:"E:/WorkProgramm/Unity/2022.3.16f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"E:/WorkProgramm/Unity/2022.3.16f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/Enemy.cs"
+"Assets/Scripts/Melee.cs"
+"Assets/Scripts/RangeFighter.cs"
 "Assets/Scripts/Spawner.cs"
+"Assets/Scripts/Target.cs"
 -langversion:9.0
 
 /deterministic

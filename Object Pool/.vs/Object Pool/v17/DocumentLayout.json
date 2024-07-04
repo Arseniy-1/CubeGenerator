@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\CubeGenerator\\Object Pool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4B7644-7250-E2EC-8641-A26263677F02}|Assembly-CSharp.csproj|e:\\workprogramm\\unity\\unityproject\\ijun\\cubegenerator\\object pool\\assets\\scripts\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4B7644-7250-E2EC-8641-A26263677F02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4B7644-7250-E2EC-8641-A26263677F02}|Assembly-CSharp.csproj|E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\CubeGenerator\\Object Pool\\assets\\scripts\\cubepool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4B7644-7250-E2EC-8641-A26263677F02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cubepool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4B7644-7250-E2EC-8641-A26263677F02}|Assembly-CSharp.csproj|E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\CubeGenerator\\Object Pool\\assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4B7644-7250-E2EC-8641-A26263677F02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4B7644-7250-E2EC-8641-A26263677F02}|Assembly-CSharp.csproj|E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\CubeGenerator\\Object Pool\\assets\\scripts\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4B7644-7250-E2EC-8641-A26263677F02}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cube.cs",
+              "DocumentMoniker": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\CubeGenerator\\Object Pool\\Assets\\Scripts\\Cube.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cube.cs",
+              "ToolTip": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\CubeGenerator\\Object Pool\\Assets\\Scripts\\Cube.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cube.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:29:36.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CubePool.cs",
+              "DocumentMoniker": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\CubeGenerator\\Object Pool\\Assets\\Scripts\\CubePool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CubePool.cs",
+              "ToolTip": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\CubeGenerator\\Object Pool\\Assets\\Scripts\\CubePool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CubePool.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:15:36.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\CubeGenerator\\Object Pool\\Assets\\Scripts\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawner.cs",
+              "ToolTip": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\CubeGenerator\\Object Pool\\Assets\\Scripts\\Spawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawner.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:33:53.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Platform.cs",
+              "DocumentMoniker": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\CubeGenerator\\Object Pool\\Assets\\Scripts\\Platform.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Platform.cs",
+              "ToolTip": "E:\\WorkProgramm\\Unity\\UnityProject\\IJun\\CubeGenerator\\Object Pool\\Assets\\Scripts\\Platform.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Platform.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:39:42.606Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

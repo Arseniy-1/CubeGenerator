@@ -7,17 +7,8 @@ public class Spawner : MonoBehaviour
 {
     [SerializeField] private List<Vector3> _spawnPoints;
     [SerializeField] private Enemy _enemyPrefab;
+    [SerializeField] private Target _target;
     private int _delay = 2;
-
-    private List<Vector3> _directions = new List<Vector3>
-    {
-        Vector3.right,
-        -Vector3.right,
-        Vector3.left,
-        -Vector3.left,
-        Vector3.forward,
-        -Vector3.forward,
-    };
 
     private void Start()
     {
@@ -38,10 +29,9 @@ public class Spawner : MonoBehaviour
     private void SpawnEnemy()
     {
         Vector3 randomPosition = _spawnPoints[Random.Range(0, _spawnPoints.Count)];
-        Vector3 randomDirestion = _directions[Random.Range(0, _directions.Count)];
 
         Enemy enemy = Instantiate(_enemyPrefab);
-        enemy.Initialize(randomDirestion);
+        enemy.Initialize(_target);
         enemy.transform.position = randomPosition;
     }
 }
